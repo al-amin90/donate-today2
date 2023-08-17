@@ -225,5 +225,24 @@ header {
     border-radius: 0px 5px 5px 0px;
     background: #FF5959;
     padding: 14px 17px;
+}
 
+/* footer part style is here  */
+
+.footer {
+    text-align: center;
+    background-color: #0B0D17;
+    color: white;
+    height: 180px;
+}
+
+.footer h5 {
+    font-size: 36px;
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer p {
+    padding-top: 20px;
+    color: #D9DBE1;
 }
