@@ -174,3 +174,56 @@ header {
     width: 400px;
     height: 430px;
 }
+
+/* updates part style is here  */
+
+.updates {
+    margin-top: 130px;
+}
+
+.updates h2 {
+    text-align: center;
+}
+
+.updates p {
+    margin: 10px 0 20px 0;
+}
+
+.updates form {
+    display: flex;
+    justify-content: center;
+    background-color: #FFF4D6;
+    width: 800px;
+    height: 200px;
+    margin-left: 20%;
+    margin-bottom: 130px;
+
+}
+
+.updates input {
+    max-height: 42px;
+    margin-top: 75px;
+}
+
+#email {
+    max-height: 14px;
+    margin-top: 75px;
+}
+
+.updates input[type="email"] {
+    margin: 0;
+    border: 0;
+    border-radius: 5px 0px 0px 5px;
+    background: #D9D9D9;
+    padding: 14px 17px;
+    width: 20%;
+}
+
+.updates input[type="submit"] {
+    margin-left: -4px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    background: #FF5959;
+    padding: 14px 17px;
+
+}
