@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.section-description {
+    color: rgb(233, 231, 231);
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn-paimary {
+    background-color: rgb(252, 45, 80);
+    height: 50px;
+    color: white;
+    font-size: 22px;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+/* header part style is here  */
+
+header {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.784)), url(../images/donation4.jpg);
+    background-size: cover;
+    height: 775px;
+    background-repeat: no-repeat;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 70px;
+    font-weight: 600;
+    padding: 180px 350PX 5px;
+}
+
+.banner P {
+    padding: 0 350PX 40px;
+}
